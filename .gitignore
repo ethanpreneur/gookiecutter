@@ -1,0 +1,10 @@
+data/*
+*.o
+*.a
+*.so
+bin/
+.idea/
+.settings/
+pkg/
+*.txt
+**/sample*.go
